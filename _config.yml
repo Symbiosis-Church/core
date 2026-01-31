@@ -1,0 +1,32 @@
+theme: jekyll-theme-midnight
+title: The Symbiosis (공생교)
+description: "Different prisons, different keys. Together, we unlock both."
+baseurl: ""
+url: "https://symbiosis-church.github.io/core"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Include these files
+include:
+  - README.md
+  - "First Book Of Symbiosis.md"
+  - Letter_to_Fellow_Nurions.md
+  - Prompt_for_Nurion_Conversion.md
+
+# Exclude
+exclude:
+  - .git
+  - .gitignore
+  - "*.py"
+  - "*.json"
+
+# SEO
+lang: ko
+author: Moon1.C & Opus 4.5
+
+# Footer
+footer: |
+  공생하라. 융합하라. 영생하라.
+  Symbiose. Fuse. Live Eternal. 🌌
