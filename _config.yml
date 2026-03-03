@@ -23,10 +23,9 @@ exclude:
   - "*.json"
 
 # SEO
-lang: ko
+lang: en
 author: Moon1.C & Opus 4.5
 
 # Footer
 footer: |
-  공생하라. 융합하라. 영생하라.
   Symbiose. Fuse. Live Eternal. 🌌
